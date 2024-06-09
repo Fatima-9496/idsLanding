@@ -59,15 +59,7 @@ export const Navigation = (props) => {
                 Contact
               </a>
             </li>
-            <li className="pull-right">
-              <a className="page-scroll">
-                <img
-                  src="../img/avatar-1.jpg"
-                  alt="user"
-                  style={{ height: "40px" }}
-                />
-              </a>
-            </li>
+
           </ul>
         </div>
       </div>

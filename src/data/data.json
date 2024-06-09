@@ -55,56 +55,61 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-pie-chart",
+      "name": "Packet Analysis",
+      "text": "Capture and analyze network packets to monitor data traffic in real-time. This process helps identify and diagnose network issues efficiently. Ensure network security by detecting anomalies and potential threats early."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-pie-chart ",
+      "name": "Pattern Identification",
+      "text": "dentify unusual patterns and behaviors in network traffic that may indicate potential intrusions. Analyzing traffic patterns helps in recognizing suspicious activities. This proactive measure is crucial for early threat detection.."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Real-Time Alerts",
+      "text": "Provide real-time alerts to the incident response team when potential intrusions are identified. Immediate notification of threats ensures swift action. Enhance response times to mitigate risks effectively."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Incident Prioritization ",
+      "text": "Categorize and prioritize security incidents based on their severity for efficient response. This helps the incident response team focus on the most critical threats first. Effective prioritization improves overall incident managemen."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Real-Time Monitoring",
+      "text": "Ensure the NIDS operates in real-time, providing continuous monitoring of the network. Real-time monitoring helps detect and respond to threats as they occur. Continuous surveillance is essential for maintaining network security."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Incident Documentation",
+      "text": "Allow the incident response team to document details of each security incident for future analysis. Thorough documentation helps in understanding and learning from past incidents. This practice improves future incident response and strengthens overall security measures."
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Elshaday Dereje",
+      "job": "5th Year Software Engineering student"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/01.jpg",
+      "name": "Fatima Abayneh",
+      "job": "5th Year Software Engineering student"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/01.jpg",
+      "name": "Keti Yohannes",
+      "job": "5th Year Software Engineering student"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/01.jpg",
+      "name": "Natan Mekbib",
+      "job": "5th Year Software Engineering student"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Yohannes Kassa",
+      "job": "5th Year Software Engineering student"
     }
   ],
   "Contact": {

@@ -6,53 +6,6 @@
   "About": {
     "paragraph": "An Intrusion Detection System (IDS) is a cybersecurity tool designed to monitor and secure computer systems and networks against unauthorized access and malicious activities. Operating in real-time, an IDS continuously analyzes network or system activities, generating alerts when it detects suspicious patterns. There are two primary types: Network-based IDS (NIDS), which monitors network traffic, and Host-based IDS (HIDS), which operates on individual systems. IDS uses signature-based detection, comparing activities against predefined patterns, or anomaly-based detection, identifying deviations from normal behavior. Integration with Security Information and Event Management (SIEM) systems enhances threat detection and response, and regular updates ensure effectiveness against evolving cybersecurity threats."
   },
-  "Gallery": [
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
   "Services": [
     {
       "icon": "fa fa-file-zip-o",

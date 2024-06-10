@@ -5,7 +5,7 @@ export const Team = (props) => {
     <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 ">
-          <h2>Our the Team</h2>
+          <h2>Our Team</h2>
 
         </div>
         <div id="row">

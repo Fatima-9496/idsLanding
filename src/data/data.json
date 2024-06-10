@@ -55,32 +55,32 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-file-zip-o",
       "name": "Packet Analysis",
       "text": "Capture and analyze network packets to monitor data traffic in real-time. This process helps identify and diagnose network issues efficiently. Ensure network security by detecting anomalies and potential threats early."
     },
     {
-      "icon": "fa fa-pie-chart ",
+      "icon": "fa fa-diamond ",
       "name": "Pattern Identification",
       "text": "dentify unusual patterns and behaviors in network traffic that may indicate potential intrusions. Analyzing traffic patterns helps in recognizing suspicious activities. This proactive measure is crucial for early threat detection.."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-bell",
       "name": "Real-Time Alerts",
       "text": "Provide real-time alerts to the incident response team when potential intrusions are identified. Immediate notification of threats ensures swift action. Enhance response times to mitigate risks effectively."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-rss",
       "name": "Incident Prioritization ",
       "text": "Categorize and prioritize security incidents based on their severity for efficient response. This helps the incident response team focus on the most critical threats first. Effective prioritization improves overall incident managemen."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-wrench",
       "name": "Real-Time Monitoring",
       "text": "Ensure the NIDS operates in real-time, providing continuous monitoring of the network. Real-time monitoring helps detect and respond to threats as they occur. Continuous surveillance is essential for maintaining network security."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-tasks",
       "name": "Incident Documentation",
       "text": "Allow the incident response team to document details of each security incident for future analysis. Thorough documentation helps in understanding and learning from past incidents. This practice improves future incident response and strengthens overall security measures."
     }
@@ -127,17 +127,17 @@
       "text": "Capture and analyze network packets to monitor data traffic in real-time. This helps in identifying and diagnosing network issues efficiently. Ensure network security by detecting anomalies and potential threats early."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-bell",
       "title": "Identify unusual patterns and behaviors",
       "text": "Identify unusual patterns and behaviors to detect potential threats early. Monitor network activities for anomalies that may indicate security breaches. Ensure proactive measures to maintain network integrity."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-hand-o-right",
       "title": "Inspect encrypted traffic securely without compromising privacy",
       "text": "Inspect encrypted traffic securely without compromising privacy. Ensure thorough analysis while maintaining data confidentiality. Detect potential threats within encrypted communications effectively."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-plus-square",
       "title": "Provide real-time alerts to the incident response team",
       "text": "Provide real-time alerts to the incident response team. Ensure immediate notification of potential threats. Enhance response times and mitigate risks swiftly."
     }

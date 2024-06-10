@@ -4,11 +4,9 @@ export const Services = (props) => {
   return (
     <div id="services" className="text-center">
       <div className="container">
-        <div className="section-title">
+        <div >
           <h2>Our Services</h2>
-          <p>
-            Real-Time Threat Detection.
-          </p>
+
         </div>
         <div className="row">
           {props.data
